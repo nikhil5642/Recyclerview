@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item android:title="Earthquake">
+    <menu>
+        <item
+            android:id="@+id/monthEarthNavig"
+            android:title="Last 30 days">
+
+        </item>
+
+        <item
+            android:id="@+id/weekEarthNavig"
+            android:title="Last 7 days">
+
+        </item>
+      <item
+          android:id="@+id/dayEarthNavig"
+          android:title="Today">
+
+      </item>
+
+      <item
+            android:id="@+id/hourEarthNavig"
+            android:title="Last hour">
+
+        </item>
+  </menu>
+</item>
+</menu>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/all"
+        android:title="All">
+
+    </item>
+
+    <item
+        android:id="@+id/mag4_5"
+        android:title="Magnitude 4.5+">
+
+    </item>
+    <item
+        android:id="@+id/mag2_5"
+        android:title="Magnitude 2.5+">
+
+    </item>
+
+    <item
+        android:id="@+id/mag1_0"
+        android:title="Magnitude 1.0+">
+
+    </item>
+
+    <item
+        android:id="@+id/significant"
+        android:title="Significant">
+
+    </item>
+
+</menu>
